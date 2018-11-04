@@ -15,7 +15,7 @@ My Portfolio showcases my Full Stack Development. Please contact me with questio
 
 ### Screen 1: Portfolio Page 
 
-<!-- ![information page](assets/images/page1.png) -->
+![information page](assets/images/SS-portfolio.png)
 
 * Navigate to more informational pages through the nav-bar.
 
@@ -25,7 +25,7 @@ My Portfolio showcases my Full Stack Development. Please contact me with questio
 
 ### Screen 2: Projects
 
-<!-- ![portfolio image](assets/images/page2.png) -->
+![projects image](assets/images/SS-projects.png)
 
 * Crystal Game\
 
@@ -33,17 +33,18 @@ My Portfolio showcases my Full Stack Development. Please contact me with questio
 
 * Movie Trivia Game \
 
-* Know your Alderman-- Grop Project 1: I personally working on the survey page which utilizes: Firebase, \
+* Know your Alderman-- Grop Project 1: I personally worked on the survey page which utilizes: Firebase, chart.js, and JQuery. \
 
 </br>
 
 
 ### Screen 4: Contact Page
 
-<!-- ![Contact Page](assets/images/page4.png) -->
+![Contact Page](assets/images/SS-contact.png)
 
 * Please fill in your name, email, and your message or comment and submit to my email.
 
 </br>
 
 ## Project insights:
+I will continue to add to the project page and update my portfolio as improve as a full stack developer. 
